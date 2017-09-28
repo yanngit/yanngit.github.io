@@ -1,2 +1,2 @@
 # yanngit.github.io
-My personnal page
+Hosted webpage on GitHub 
